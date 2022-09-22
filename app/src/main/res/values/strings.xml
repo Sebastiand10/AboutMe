@@ -1,5 +1,7 @@
 <resources>
     <string name="app_name">Sebastian Diaz</string>
+    <string name="what_is_your_nickname"> What is your nickname?</string>
+    <string name="done">Done</string>
     <string name="yellow_star">16dp</string>
     <string name="bio">Hola minombre es sebastian
         \n Me gusta mucho el deporte
